@@ -13,9 +13,9 @@ Step 4: Connect to Git provider
         Choose the Git provider where your site’s source code is hosted. When you push to Git, we run your build tool of choice on our servers and deploy the result.
         
         **Note:**If you Can’t see your repo, Click on Configure the Netlify app on GitHub.
-                    Select one of these below and save
-                        All repositories
-                        Only select repositories
+               Select one of these below and save
+                   All repositories
+                   Only select repositories
         
 Step 5: Pickup a repository
 
