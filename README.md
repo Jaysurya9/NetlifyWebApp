@@ -1,3 +1,4 @@
+<html>
 <h2>Hosting a Website with Netlify</h2>
 <h2>Develop and Deploy a Website with Netlify</h2>
 
@@ -38,7 +39,7 @@ step 7: Add Custom Domain and Enable HTTPS
 
 Step 8: Verify Site with Custom Domain Url
         
-        
+</html>      
 
 
 
