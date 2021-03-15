@@ -10,7 +10,8 @@ Step 3: Click on **"New Site from Git"** - To Create a new site
 
 Step 4: Connect to Git provider 
         Continuous Deployment
-        Choose the Git provider where your site’s source code is hosted. When you push to Git, we run your build tool of choice on our servers and deploy the result.
+            Choose the Git provider where your site’s source code is hosted. When you push to Git, 
+            we run your build tool of choice on our servers and deploy the result.
         
         **Note:**If you Can’t see your repo, Click on Configure the Netlify app on GitHub.
                     Select one of these below and save
