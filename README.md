@@ -1,6 +1,7 @@
 
 <h2>Hosting a Website with Netlify</h2>
 <h2>Develop and Deploy a Website with Netlify</h2>
+Click here to open the deployed site: https://jaysurya.netlify.app/
 
 Step 1: Visit Netlify - https://www.netlify.com/
 
